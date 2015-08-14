@@ -8,9 +8,9 @@ can be used to download the video.
 
 Usage
 =====
-Use ``get.php`` with the ``url`` parameter::
+Use ``info.php`` with the ``url`` parameter::
 
-  http://example.org/get.php?url=http://youtu...
+  http://example.org/info.php?url=http://youtu...
 
 It will return JSON data about the video.
 Same format as ``youtube-dl --dump-json`` returns.
