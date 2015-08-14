@@ -5,6 +5,8 @@ youtube-dl server
 Uses `youtube-dl`__ to fetch information about videos that
 can be used to download the video.
 
+__ http://rg3.github.io/youtube-dl/
+
 
 Usage
 =====
